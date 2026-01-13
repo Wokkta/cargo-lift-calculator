@@ -1,4 +1,4 @@
-# Release 1.0.0
+# Release 1.1.0
  CargoLiftCalculator:
     def floor_price(self, weight, floor):
         floors = max(0, floor - 1)
